@@ -1,0 +1,22 @@
+.top-sect{
+    background-color: #F67280;
+}
+
+.main-cont{
+    display: flex;
+    flex-wrap: nowrap;
+}
+.side-nav{
+    height: 100vh;
+    background-color: #C06C84;
+}
+
+.middle-form{
+    height: 100vh;
+    background-color: #6C5B7B;
+}
+
+.profile-panel{
+    height: 100vh;
+    background-color: #355C7D;
+}
