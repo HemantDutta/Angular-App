@@ -20,3 +20,14 @@
     height: 100vh;
     background-color: #263159;
 }
+
+.btnMen{
+    color: white;
+    font-size: 1.3em;
+    border-radius: 10px;
+    padding: 10px 34px;
+}
+
+.btnMen:hover{
+    box-shadow: 2px 0px 2px black;
+}
